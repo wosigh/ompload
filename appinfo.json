@@ -1,7 +1,7 @@
 {
 	"id": "us.ryanhope.ompload",
 	"version": "1.0.1",
-	"vendor": "Dry Hopped Software",
+	"vendor": "Ryan Hope",
 	"type": "web",
 	"main": "index.html",
 	"title": "Ompload",
