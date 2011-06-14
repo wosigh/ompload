@@ -1,0 +1,28 @@
+.upload .palm-page-header-wrapper .icon
+{
+	width: 76px;
+	height: 75px;
+	background: url(../ompload-48.png) center center no-repeat !important;
+}
+.upload .palm-page-header-wrapper .title
+{
+	padding-left: 80px;
+	text-transform: none;
+}
+.upload .palm-page-header-wrapper .title.main
+{
+	font-size: 30px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+.upload .palm-page-header-wrapper .title .version
+{
+	font-size: 12px;
+	color: #888;
+}
+.upload .palm-page-header-wrapper .title.sub
+{
+	font-size: 14px;
+	padding-top: 0px;
+	margin-top: 0px;
+}

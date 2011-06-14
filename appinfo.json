@@ -1,0 +1,9 @@
+{
+	"id": "us.ryanhope.ompload",
+	"version": "1.0.1",
+	"vendor": "Dry Hopped Software",
+	"type": "web",
+	"main": "index.html",
+	"title": "Ompload",
+	"icon": "ompload-48.png"
+}
